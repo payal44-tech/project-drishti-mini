@@ -44,7 +44,7 @@ This version of Project Drishti focuses on the MYOSA IoT ecosystem, integrating 
 
 ### Videos
 <video controls width="100%">
-<source src="/drishti-demo.mp4" type="video/mp4">
+  <source src="/drishti-demo.mp4" type="video/mp4">
 </video>
 
 ---
