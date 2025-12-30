@@ -37,7 +37,7 @@ This version of Project Drishti focuses on the MYOSA IoT ecosystem, integrating 
 </p>
 
 <p align="center">
-<img src="/drishti-dashboard.jpg" width="800"><br/>
+<img src="/drishti-dashboard.jpeg" width="800"><br/>
 <i>Live dashboard showing crowd risk levels</i>
 </p>
 
