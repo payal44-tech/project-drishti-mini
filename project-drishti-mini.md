@@ -32,7 +32,7 @@ This version of Project Drishti focuses on the MYOSA IoT ecosystem, integrating 
 
 ### Images
 <p align="center">
-<img src="/drishti-node.jpg" width="800"><br/>
+<img src="/drishti-node.jpeg" width="800"><br/>
 <i>MYOSA Crowd Monitoring Unit with connected sensors</i>
 </p>
 
