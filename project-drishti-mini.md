@@ -17,6 +17,13 @@ tags:
 
 ---
 
+<p align="center">
+<img src="/drishti-cover.jpg" width="900"><br/>
+<i>Project Drishti Mini – System Overview</i>
+</p>
+
+---
+
 ## Acknowledgements
 We thank IEEE, the MYOSA initiative, and Prof. Digant Parmar from Silver Oak University for their guidance and mentorship throughout the development of this project.
 
