@@ -85,22 +85,55 @@ A cloud-based dashboard visualizes data from all MYOSA nodes, displaying crowd d
 ---
 
 ## Tech Stack
-MYOSA Mini IoT Platform
-Embedded C / Arduino
-Wi-Fi / BLE Communication
-Node.js
-Firebase
-OLED Display (SSD1306)
+
+### Hardware Platform
+- MYOSA Mini IoT Platform
+- MYOSA Sensor Kit
+- OLED Display (SSD1306)
+
+### Firmware & Embedded Systems
+- Embedded C / C++
+- Arduino Framework
+- Sensor drivers for MPU6050, APDS9960, and BMP180
+
+### Communication
+- Wi-Fi
+- Bluetooth Low Energy (BLE)
+
+### Backend & Data Processing
+- Python for backend services and data processing
+- Node.js for APIs and real-time communication
+- Firebase for real-time database and cloud storage
+
+### Frontend & Visualization
+- React.js for web-based dashboard and real-time data visualization
+
 
 ---
 
 ## Requirements / Installation
 
-## File Structure (Optional)
-project-drishti-mini/
-├─ project-drishti-mini.md
-├─ drishti-cover.jpg
-├─ drishti-node.jpg
-├─ drishti-dashboard.jpg
-├─ drishti-demo.mp4
+### Hardware Requirements
+- MYOSA Mini IoT Board
+- Sensors: MPU6050, APDS9960, BMP180, onboard temperature sensor
+- OLED Display (SSD1306)
+- LED and buzzer for alerts
+- USB cable or battery for power supply
+
+### Software Requirements
+- Arduino IDE or PlatformIO for firmware development
+- Node.js for backend and dashboard services
+- Python for backend data processing
+- Firebase account for real-time data storage
+- Wi-Fi or BLE connectivity
+
+### Installation / Setup
+1. Flash the firmware onto the MYOSA board using Arduino IDE or PlatformIO.
+2. Connect all required sensors and peripherals to the MYOSA board.
+3. Configure Wi-Fi or BLE credentials in the firmware.
+4. Install backend and dashboard dependencies:
+
+```bash
+npm install
+
 
