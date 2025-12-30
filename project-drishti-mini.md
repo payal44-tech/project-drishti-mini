@@ -18,7 +18,7 @@ tags:
 ---
 
 <p align="center">
-<img src="/drishti-cover.jpg" width="900"><br/>
+<img src="/drishti-cover.jpeg" width="900"><br/>
 <i>Project Drishti Mini – System Overview</i>
 </p>
 
